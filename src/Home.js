@@ -6,7 +6,7 @@ const Home = () => {
     <div className="homesection">
       <div className="navbar flex justify-between bg-blue-300 p-3">
         <div className="logo ml-2 font-extrabold text-xl text-white">
-          Developers Hub
+          Developers Corner
         </div>
         <div className="route flex justify-evenly mr-2 items-center">
           <ul className="flex">
